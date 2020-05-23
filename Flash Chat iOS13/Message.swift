@@ -1,10 +1,4 @@
-//
-//  Message.swift
-//  Flash Chat iOS13
-//
-//  Created by Sunghyup Kim on 2020/03/26.
-//  Copyright © 2020 Angela Yu. All rights reserved.
-//
+
 
 import Foundation
 
